@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Cloned the Githib repository from Apache Ambari.
+The repository is cloned 
 ## Header 2
 ### Header 3
 
